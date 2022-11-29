@@ -1,2 +1,7 @@
-# Forbredning-Eksamen2022-OOP2
-Mappe med løste eksamensoppgaver som en forbredning til eksamen i Objektorientert programmering 2
+# Preparation Exam 2022-OOP2
+
+Old exam tasks that have been done as preporation for exam in 2022 object-oriented programming 2
+-----------------------------------------------------------------------
+Language : C#  
+Programming environment: visual studio community 2022  
+Application: WinForm
