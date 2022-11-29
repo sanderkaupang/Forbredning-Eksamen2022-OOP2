@@ -1,0 +1,11 @@
+C:\Users\sande\Downloads\ia2112_sp_v2020\obj\Debug\ia2112_sp_v2020.csproj.AssemblyReference.cache
+C:\Users\sande\Downloads\ia2112_sp_v2020\obj\Debug\ia2112_sp_v2020.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\Downloads\ia2112_sp_v2020\obj\Debug\ia2112_sp_v2020.Form1.resources
+C:\Users\sande\Downloads\ia2112_sp_v2020\obj\Debug\ia2112_sp_v2020.Properties.Resources.resources
+C:\Users\sande\Downloads\ia2112_sp_v2020\obj\Debug\ia2112_sp_v2020.csproj.GenerateResource.cache
+C:\Users\sande\Downloads\ia2112_sp_v2020\obj\Debug\ia2112_sp_v2020.csproj.CoreCompileInputs.cache
+C:\Users\sande\Downloads\ia2112_sp_v2020\bin\Debug\ia2112_sp_v2020.exe.config
+C:\Users\sande\Downloads\ia2112_sp_v2020\bin\Debug\ia2112_sp_v2020.exe
+C:\Users\sande\Downloads\ia2112_sp_v2020\bin\Debug\ia2112_sp_v2020.pdb
+C:\Users\sande\Downloads\ia2112_sp_v2020\obj\Debug\ia2112_sp_v2020.exe
+C:\Users\sande\Downloads\ia2112_sp_v2020\obj\Debug\ia2112_sp_v2020.pdb
